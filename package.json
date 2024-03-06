@@ -1,0 +1,8 @@
+{
+  "name": "promise-fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "author": "arthur.escriou <arthur.escriou@gmail.com>"
+}
